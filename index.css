@@ -1,0 +1,171 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.row{
+    background-color: rgba(255, 255, 255, 0.789);
+    align-items: center;
+}
+.shadow{
+    box-shadow: rgb(244, 244, 244) 10px 10px 10px;
+}
+
+.nav-item{
+    padding-right: 30px;
+    font-size: medium;
+    text-transform: uppercase;
+     color: rgb(85, 175, 253) ;
+
+
+
+}
+nav-link{
+    
+    
+
+}
+
+.download{
+     height:35px;
+     width: 100px;
+    background-color: rgb(219, 4, 4);
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 60px;
+}
+.download:hover{
+background-color: red;
+
+transition: 0.8s;
+border: none;
+font-size: 14px;
+font-weight: bold;
+text-transform:uppercase;
+}
+.heading{
+    font-weight: bold;
+    
+    color: blueviolet;
+}
+.p-head{
+    font-size: 1.3rem;
+    font-weight:400;
+
+
+
+}
+.btn1{
+    height: 30px;
+    width: 110px;
+    background-color:  rgb(224, 0, 0);
+    color: white;
+    border-radius: 60px;
+    border: none;
+    margin: auto;
+
+}
+.btn2{
+    height: 30px;
+    width: 110px;
+    outline: none;
+    background-color:transparent;
+    color: rgb(85, 175, 253);
+    border-radius: 60px;
+    border:none rgb(105, 154, 244) ;
+    margin: auto;
+    font-size: 1rem;
+}
+.btn1:hover{ 
+
+   
+    transition: 0.7s;
+    font-weight: bold;
+    font-size: small;
+
+}
+.btn2:hover{
+    background-color: rgb(85, 175, 253);
+    color: white;
+    transition: 0.7s;
+    font-weight: bold;
+    font-size: small;
+
+
+}
+.img1{
+    max-width:450px;
+
+}
+.img1:hover{
+    transition: 0.5s;
+    border-radius: 50px;
+    box-shadow: -1px -1px 5px -3px rgb(241, 52, 255);
+   
+    width: 500px;
+
+}
+.col2 {
+
+margin-top: 70px;
+
+}
+
+
+
+
+.tutors{
+    border-radius: 50px;
+    box-shadow:5px 10px 5px px rgb(247, 247, 247);
+    margin-bottom:7px;
+}
+.img2{
+    max-width:450px;
+}
+.img1{
+    max-width:400px;
+
+}
+.img2:hover{
+    transition: 0.5s;
+    border-radius: 50px;
+    box-shadow: -1px -1px 5px -3px rgb(241, 52, 255);
+   width: 500px;
+
+}
+.tutor1 {
+    width: 10rem;
+  
+    }
+.card{
+    border: none;
+    border-radius: 30px;
+}
+    .card:hover{
+ border: none;
+ transition: 00.5s;
+box-shadow: -2px -2px 5px -3px rgb(241, 52, 255);
+    }
+
+    .footer{
+        width: 100%;
+    }
+
+    .logblock{
+   
+
+    }
+
+    .log{
+width: 4rem;
+
+    }
+    .log1{
+        width: 3rem;
+        
+    }
+    .log3{
+        width: 2rem;
+    }
